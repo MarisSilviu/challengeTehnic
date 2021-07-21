@@ -1,0 +1,14 @@
+ChallengeTehnic/Functie.java
+ ChallengeTehnic.Functie
+ChallengeTehnic/Departament.java
+ ChallengeTehnic.Departament
+ChallengeTehnic/Angajat.java
+ ChallengeTehnic.Angajat
+ChallengeTehnic/Concediu.java
+ ChallengeTehnic.Concediu
+ChallengeTehnic/DBConnection.java
+ ChallengeTehnic.DBConnection
+ChallengeTehnic/Main.java
+ ChallengeTehnic.Main
+ChallengeTehnic/Proiect.java
+ ChallengeTehnic.Proiect
